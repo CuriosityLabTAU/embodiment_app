@@ -1,0 +1,22 @@
+{
+  "Hebrew": {
+    "1": {
+      "text": "ballon",
+      "image": "01a.jpg"
+    },
+    "2": {
+      "text": "towel",
+      "image": "02b.jpg"
+    }
+  },
+  "English": {
+    "1": {
+      "text": "bird",
+      "image": "01a.jpg"
+    },
+    "2": {
+      "text": "lemon",
+      "image": "02b.jpg"
+    }
+  }
+}
