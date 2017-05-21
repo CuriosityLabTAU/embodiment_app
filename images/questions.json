@@ -1,22 +1,166 @@
 {
-  "Hebrew": {
+  "HebrewList1": {
     "1": {
       "text": "ballon",
-      "image": "01a.jpg"
+      "image": "01b.jpg"
     },
     "2": {
       "text": "towel",
       "image": "02b.jpg"
+    },
+    "3": {
+      "text": "spaghetti",
+      "image": "03b.jpg"
+    },
+    "4": {
+      "text": "corn",
+      "image": "04b.jpg"
+    },
+    "5": {
+      "text": "bread",
+      "image": "05b.jpg"
+    },
+    "6": {
+      "text": "mushroom",
+      "image": "06a.jpg"
+    },
+    "7": {
+      "text": "tomato",
+      "image": "07a.jpg"
+    },
+    "8": {
+      "text": "egg",
+      "image": "08a.jpg"
+    },
+    "9": {
+      "text": "gum",
+      "image": "09a.jpg"
+    },
+    "10": {
+      "text": "chocolate",
+      "image": "10a.jpg"
+    },
+    "11": {
+      "text": "sock",
+      "image": "11b.jpg"
+    },
+    "12": {
+      "text": "toilet paper",
+      "image": "12b.jpg"
+    },
+    "13": {
+      "text": "scarf",
+      "image": "13b.jpg"
+    },
+    "14": {
+      "text": "cucumber",
+      "image": "14b.jpg"
+    },
+    "15": {
+      "text": "green pepper",
+      "image": "15b.jpg"
+    },
+    "16": {
+      "text": "umbrella",
+      "image": "16a.jpg"
+    },
+    "17": {
+      "text": "flowers",
+      "image": "17a.jpg"
+    },
+    "18": {
+      "text": "man",
+      "image": "18a.jpg"
+    },
+    "19": {
+      "text": "ice cream",
+      "image": "19a.jpg"
+    },
+    "20": {
+      "text": "carpet",
+      "image": "20a.jpg"
     }
   },
-  "English": {
+  "HebrewList2": {
     "1": {
-      "text": "bird",
-      "image": "01a.jpg"
+      "text": "ballon",
+      "image": "01b.jpg"
     },
     "2": {
-      "text": "lemon",
-      "image": "02b.jpg"
+      "text": "towel",
+      "image": "02a.jpg"
+    },
+    "3": {
+      "text": "spaghetti",
+      "image": "03a.jpg"
+    },
+    "4": {
+      "text": "corn",
+      "image": "04a.jpg"
+     },
+    "5": {
+      "text": "bread",
+      "image": "05a.jpg"
+      },
+    "6": {
+      "text": "mushroom",
+      "image": "06b.jpg"
+      },
+    "7": {
+      "text": "tomato",
+      "image": "07b.jpg"
+      },
+    "8": {
+      "text": "egg",
+      "image": "08b.jpg"
+      },
+    "9": {
+      "text": "gum",
+      "image": "09b.jpg"
+      },
+    "10": {
+      "text": "chocolate",
+      "image": "10b.jpg"      
+      },
+    "11": {
+      "text": "sock",
+      "image": "11a.jpg"
+      },
+    "12": {
+      "text": "toilet paper",
+      "image": "12a.jpg"
+      },
+    "13": {
+      "text": "scarf",
+      "image": "13a.jpg"
+      },
+    "14": {
+      "text": "cucumber",
+      "image": "14a.jpg"
+      },
+    "15": {
+      "text": "green pepper",
+      "image": "15a.jpg"
+      },
+    "16": {
+      "text": "umbrella",
+      "image": "16b.jpg"
+      },
+    "17": {
+      "text": "flowers",
+      "image": "17b.jpg"
+      },
+    "18": {
+      "text": "man",
+      "image": "18b.jpg"
+      },
+    "19": {
+      "text": "ice cream",
+      "image": "19b.jpg"
+      },
+    "20": {
+      "text": "carpet",
+      "image": "20b.jpg"
+      }
     }
   }
-}
